@@ -1,0 +1,16 @@
+$color: pink; //Variabile
+
+body {
+  background-color: purple;
+  color: white;
+
+  h1 {
+    color: $color;
+  }
+  button {
+    background-color: $color;
+  }
+  p {
+    color: $color;
+  }
+}

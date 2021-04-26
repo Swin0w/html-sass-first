@@ -1,0 +1,13 @@
+body {
+  background-color: purple;
+  color: white;
+}
+body h1 {
+  color: pink;
+}
+body button {
+  background-color: pink;
+}
+body p {
+  color: pink;
+}
